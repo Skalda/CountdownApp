@@ -1,0 +1,15 @@
+.app {
+  font-size: 35px;
+  margin-top: 20%;
+  text-align: center;
+}
+
+.time > div {
+  display: inline;
+  margin: 10px;
+}
+
+.deadlineInput {
+  margin: 5px;
+  font-size: 25px;
+}
